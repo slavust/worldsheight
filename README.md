@@ -6,10 +6,3 @@ Generates height map of Earth section by given latitude/longitude (using open-el
 For instance:
 
     ./worldsheight.py "49.0885, 37.4867" "48.9843, 37.6024" 4096 test.png
-    
-### Contact
-Viacheslav Ustymenko
-
-e-mail: homer@slavust.name
-
-Website: [slavust.name](https://slavust.name)
